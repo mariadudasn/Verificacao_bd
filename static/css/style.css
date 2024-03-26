@@ -1,0 +1,8 @@
+.container{
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: linear-gradient(rgb(92, 6, 82), rgba(0, 193, 199, 0.913));
+    z-index: -1;
+}
